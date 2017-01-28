@@ -1,0 +1,29 @@
+body{
+    font-size:14px;
+    line-height:24px;
+    color:black;
+    font-weight:bold;
+    font-family: "PT Sans", "Arial", serif;
+    text-transform: uppercase;
+}
+
+
+/*то, что я называла заголовками h2 на разных страницах, выглядит везде по-разному (например, имеет разную высоту и размер). Это правильно? Как тогда задавать свойства для них? Ведь тег h1, к примеру, - должен быть одинаковым для всего документа? */
+
+h1{
+    font-size: 30px;
+    line-height: 42px;
+    color: black;
+    font-weight: bold;
+    font-family: "PT Sans", "Arial", serif; 
+    text-transform: uppercase;
+}
+
+h2{
+    font-size:30px;
+    line-height:42px;
+    color:black;
+    font-weight:bold;
+    font-family: "PT Sans", "Arial", serif;
+    text-transform: uppercase;
+}
